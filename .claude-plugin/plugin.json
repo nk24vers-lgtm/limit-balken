@@ -1,1 +1,1 @@
-{ "name": "limit-balken", "version": "0.1.0", "description": "Balken über der Eingabe mit 5-Stunden- und Wochenlimit", "types": "./types/index.d.ts" }
+{ "name": "limit-balken", "version": "0.1.1", "description": "Balken über der Eingabe mit 5-Stunden- und Wochenlimit", "types": "./types/index.d.ts" }
