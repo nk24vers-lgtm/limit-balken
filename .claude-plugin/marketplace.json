@@ -1,0 +1,5 @@
+{
+  "name": "limit-balken",
+  "owner": { "name": "nk24vers-lgtm" },
+  "plugins": [{ "name": "limit-balken", "source": "./" }]
+}
